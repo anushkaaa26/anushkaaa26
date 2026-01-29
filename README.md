@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake.svg?cache=1" />
 
 ###
 
