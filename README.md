@@ -1,292 +1,215 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D4FF&height=220&section=header&text=Anushka%20Dhiman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Agentic%20AI%20|%20LLMs%20|%20Building%20Real-World%20AI%20Systems&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Anushka%20Dhiman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descAlignY=55&descSize=20"/>
 
-# Hi there 👋 I'm Anushka
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Anushka+%F0%9F%91%8B;I+build+AI+that+reasons%2C+not+just+replies;Agentic+AI+%7C+LLMs+%7C+RAG+%7C+FastAPI;Turning+research+papers+into+production+systems;Currently+building+an+AI+Career+OS+%F0%9F%9A%80"/>
 
-### Building AI systems that reason, retrieve, and solve real-world problems.
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+Engineer;Agentic+AI+Developer;LLMs+%7C+RAG+%7C+FastAPI;Building+Production+Ready+AI+Applications;Always+Learning+Always+Building"/>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/anushkaaa26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p>
+<br><br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=anushkaaa26&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=anushkaaa26&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## 🧬 About Me
 
-I'm a **Computer Science undergraduate** passionate about building intelligent AI systems that move beyond simple chatbots.
-
-My interests lie at the intersection of
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ Backend AI Engineering
-- 📈 Machine Learning
-- 🚀 AI Product Development
-
-I enjoy transforming research ideas into scalable, production-ready applications by combining reasoning, retrieval, APIs, and automation.
-
----
-
-# 🎯 What I'm Currently Working On
-
-- 🤖 AI Career Operating System
-- 🧠 Autonomous AI Agents
-- 🔍 Adaptive Retrieval-Augmented Generation
-- 📚 LLM Engineering
-- ⚡ FastAPI Backend Development
-- 🔄 AI Workflow Orchestration
-- ☁️ AI Deployment & MLOps
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
-</p>
-
-**Libraries**
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Hugging Face Transformers
-
----
-
-## 🧠 LLM Engineering
-
-- LangChain
-- LangGraph
-- RAG
-- Adaptive RAG
-- Prompt Engineering
-- AI Agents
-- Vector Databases
-- ChromaDB
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-</p>
-
-- REST APIs
-- Pydantic
-- Async Python
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite"/>
-
-</p>
-
----
-
-## ☁️ Deployment & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-
-</p>
-
-- Streamlit
-- GitHub Actions
-
----
-
-# 🧠 AI Toolbox
-
-```text
-✓ Agentic AI
-
-✓ Large Language Models
-
-✓ Retrieval-Augmented Generation
-
-✓ Adaptive RAG
-
-✓ AI Agents
-
-✓ Prompt Engineering
-
-✓ FastAPI
-
-✓ Machine Learning
-
-✓ Deep Learning
-
-✓ Computer Vision
-
-✓ NLP
-
-✓ API Development
-
-✓ AI Workflow Automation
+```yaml
+name: Anushka Dhiman
+role: AI Engineer & Computer Science Undergraduate
+focus: [Agentic AI, LLMs, RAG, Backend AI Engineering]
+philosophy: "AI that moves beyond chatbots — systems that reason, retrieve, and act"
+currently_exploring: Adaptive Retrieval-Augmented Generation
+mission: Turning research ideas into scalable, production-ready applications
 ```
 
----
+I combine reasoning, retrieval, APIs, and automation to build AI systems that actually *do* things — not just talk about them.
 
-# ⭐ Featured Projects
+<br>
 
-## 🤖 AI Career Operating System
+## 🎯 Currently
 
-An autonomous AI platform designed to help users learn, plan, execute and track their AI career journey through specialized AI agents.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech**
+**🔭 Building**
+- 🤖 AI Career Operating System
+- 🧠 Autonomous, tool-using AI agents
+- 🔍 Adaptive Retrieval-Augmented Generation
 
-LLMs • FastAPI • Multi-Agent Architecture • Planning
+</td>
+<td width="50%" valign="top">
 
----
+**📚 Sharpening**
+- ⚡ FastAPI backend architecture
+- 🔄 AI workflow orchestration
+- ☁️ AI deployment & MLOps
 
-## 🔍 Adaptive RAG
+</td>
+</tr>
+</table>
 
-A production-oriented Retrieval-Augmented Generation system with intelligent routing, evaluation, document retrieval and optimized response generation.
+<br>
 
-**Tech**
-
-LangChain • FastAPI • ChromaDB • LLMs
-
----
-
-## 📡 Telecom RAG
-
-Domain-specific Retrieval-Augmented Generation system built for telecom support, enabling accurate question answering over technical documentation.
-
-**Tech**
-
-RAG • Vector Search • FastAPI • LLMs
-
----
-
-## 🛒 AI Shopping Agent
-
-An intelligent shopping assistant capable of product discovery, comparison and recommendation using LLM reasoning and tool calling.
-
-**Tech**
-
-LLMs • Agentic AI • APIs • Python
-
----
-
-## 👁 Netra AI
-
-Interactive AI assistant with a modern Streamlit interface for document interaction and intelligent conversations.
-
-**Tech**
-
-Streamlit • Python • FastAPI • LLMs
-
----
-
-## 🤖 AI Agents Collection
-
-A growing collection of autonomous AI agents capable of planning, reasoning, memory and tool usage.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anushkaaa26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaaa26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anushkaaa26&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Contributions
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake-dark.svg"/>
-
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake.svg"/>
-
-  <img alt="github contribution snake"
-  src="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkaaa26&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 💡 Quote I Live By
-
-> **"Build. Break. Learn. Repeat."**
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
+**Languages**
 
-If you like my work, don't forget to ⭐ my repositories.
+<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8B5CF6,100:6C63FF&height=120&section=footer"/>
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
+`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Hugging Face Transformers`
+
+**LLM Engineering**
+
+`LangChain` `LangGraph` `RAG` `Adaptive RAG` `Prompt Engineering` `AI Agents` `Vector DBs` `ChromaDB`
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,sqlite"/>
+
+`REST APIs` `Pydantic` `Async Python`
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+`Streamlit` `GitHub Actions`
+
+</div>
+
+<br>
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Career Operating System
+Autonomous platform where specialized AI agents help users learn, plan, execute, and track their AI career journey.
+
+`LLMs` `FastAPI` `Multi-Agent Architecture` `Planning`
+
+</td>
+<td width="50%">
+
+### 🔍 Adaptive RAG
+Production-oriented RAG system with intelligent query routing, evaluation, retrieval, and optimized generation.
+
+`LangChain` `FastAPI` `ChromaDB` `LLMs`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 Telecom RAG
+Domain-specific RAG system for telecom support — accurate Q&A over dense technical documentation.
+
+`RAG` `Vector Search` `FastAPI` `LLMs`
+
+</td>
+<td width="50%">
+
+### 🛒 AI Shopping Agent
+Intelligent shopping assistant for product discovery, comparison, and recommendation via LLM reasoning + tool calling.
+
+`LLMs` `Agentic AI` `APIs` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👁️ Netra AI
+Interactive AI assistant with a modern Streamlit interface for document interaction and conversation.
+
+`Streamlit` `Python` `FastAPI` `LLMs`
+
+</td>
+<td width="50%">
+
+### 🧩 AI Agents Collection
+A growing library of autonomous agents built for planning, reasoning, memory, and tool use.
+
+`Agentic AI` `Memory` `Tool Use`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anushkaaa26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaaa26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://streak-stats.demolab.com?user=anushkaaa26&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/anushkaaa26/anushkaaa26/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkaaa26&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br>
+
+## 💬 Let's Connect
+
+I'm always up for a conversation about agentic systems, RAG architectures, or ambitious AI product ideas. Reach out — I reply fast.
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's_talk_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **"Build. Break. Learn. Repeat."**
+
+⭐ If any of this resonates, a star on my repos means a lot.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
 
 </div>
