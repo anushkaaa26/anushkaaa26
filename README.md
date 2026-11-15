@@ -4,20 +4,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:0B3B36,100:00F5A0&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Anushka%20Dhiman%20%E2%80%94%20Agentic%20AI%20Engineer&descAlignY=55&descSize=22&font=monospace"/>
 
-```javascript
- █████╗ ███╗   ██╗██╗   ██╗███████╗██╗  ██╗██╗      █████╗
-██╔══██╗████╗  ██║██║   ██║██╔════╝██║ ██╔╝██║     ██╔══██╗
-███████║██╔██╗ ██║██║   ██║███████╗█████╔╝ ██║     ███████║
-██╔══██║██║╚██╗██║██║   ██║╚════██║██╔═██╗ ██║     ██╔══██║
-██║  ██║██║ ╚████║╚██████╔╝███████║██║  ██╗███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-██████╗ ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██║  ██║██║████╗ ████║██╔══██╗████╗  ██║
-██║  ██║███████║██║██╔████╔██║███████║██╔██╗ ██║
-██║  ██║██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=900&lines=building+AI+that+ships+to+production;agentic+systems+with+deterministic+guardrails;10%2B+live+deployments+%C2%B7+fintech+%C2%B7+healthcare+%C2%B7+enterprise;agents+propose+%E2%80%94+deterministic+systems+decide"/>
 
